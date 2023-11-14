@@ -14,3 +14,12 @@ if (word1.length > word2.lenght) {
 } else {
     console.log("Le parole hanno la stessa lunghezza)
 };
+
+
+## Snack 4
+
+Crea un array vuoto e chiedi all’utente un numero da inserire nell’array. 
+
+
+
+Continua a chiedere i numeri all’utente e a inserirli nell’array fino a quando la somma degli elementi è inferiore di 50.
